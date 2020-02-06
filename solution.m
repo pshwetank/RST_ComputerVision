@@ -43,6 +43,6 @@ for i=1:size(C,1)-2
 end
 
 
-%Question 5
-
-
+figure()
+imshow(B)
+title('First Derivative of the image using Sobel Operator');
